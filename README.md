@@ -7,5 +7,5 @@ dziekluk
 ### INSTALATION
 
 ```command
-apt-get
+apt-get install git
 ```
