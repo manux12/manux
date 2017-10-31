@@ -6,6 +6,6 @@ dziekluk
 ## test
 ### INSTALATION
 
-```bash
+```command
 apt-get
 ```
