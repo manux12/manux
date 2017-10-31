@@ -11,3 +11,4 @@ apt-get install wen python minek
 ``` 
 
 1 kimne
+2 . wasz
