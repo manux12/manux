@@ -7,5 +7,5 @@ dziekluk
 ### INSTALATION
 
 ```command
-apt-get install mircul
+apt-get install wen
 ```
