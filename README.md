@@ -7,5 +7,5 @@ dziekluk
 ### INSTALATION
 
 ```bash
-
+apt-get
 ```
