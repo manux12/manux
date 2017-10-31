@@ -7,5 +7,5 @@ dziekluk
 ### INSTALATION
 
 ```command
-apt-get install wen python
+apt-get install wen python minek
 ```
