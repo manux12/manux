@@ -7,5 +7,5 @@ dziekluk
 ### INSTALATION
 
 ```command
-apt-get install git
+apt-get install mircul
 ```
